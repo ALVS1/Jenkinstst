@@ -1,11 +1,7 @@
 public class Matematica {
-	public static void main(String[] args) {
-		hw();
-	}
-	
-	public static String hw(){  
-	    final String _x = "Hello";  
-	    final String _y = "World";  
-	    return _x+_y;  
-	}
+ 
+    public void sayHello() {
+        // Imprime a mensagem Hello World! no terminal
+        System.out.println("Hello World!");
+    }
 }
